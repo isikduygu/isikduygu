@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hello, I am Duygu Işık! 
 
-##Skill Highlights
-  -Javascript 
-  -Html5 
-  -Css3 / SASS- SCSS 
-  -Bootstrap 
+## Skill Highlights
+  - Javascript 
+  - Html5 
+  - Css3 / SASS- SCSS 
+  - Bootstrap 
   -Git 
   -Creative design 
   -Python 
