@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 # Hello, I am Duygu Işık! 
 
 ##Skill Highlights
-
-+Javascript 
-+Html5 
-*Css3 / SASS- SCSS 
--Bootstrap 
--Git 
--Creative design 
--Python 
--Vue.js 
--Office Programs 
--Task management 
--Agile
+  -Javascript 
+  -Html5 
+  -Css3 / SASS- SCSS 
+  -Bootstrap 
+  -Git 
+  -Creative design 
+  -Python 
+  -Vue.js 
+  -Office Programs 
+  -Task management 
+  -Agile
 
 You can contact me!
 
