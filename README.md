@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 You can contact me!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyguisikk/)
-[![Mail Badge](https://img.shields.io/badge/-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:duygu.yaseminn18@gmail.com)](mailto:mertcobanov@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:duygu.yaseminn18@gmail.com)](mailto:mertcobanov@gmail.com)
