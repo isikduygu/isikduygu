@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dduyguu/dduyguu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I am Duygu Işık! 
+
+You can contact me!
+
+[![](https://img.shields.io/github/followers/dduyguu?style=social)](https://www.github.com/dduyguu)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyguisikk/)
+[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:duygu.yaseminn18@gmail.com)](mailto:mertcobanov@gmail.com)
