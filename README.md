@@ -20,13 +20,13 @@ Here are some ideas to get you started:
   - Html5 
   - Css3 / SASS- SCSS 
   - Bootstrap 
-  -Git 
-  -Creative design 
-  -Python 
-  -Vue.js 
-  -Office Programs 
-  -Task management 
-  -Agile
+  - Git 
+  - Creative design 
+  - Python 
+  - Vue.js 
+  - Office Programs 
+  - Task management 
+  - Agile
 
 You can contact me!
 
