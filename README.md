@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ##Skill Highlights
 
-*Javascript 
-*Html5 
++Javascript 
++Html5 
 *Css3 / SASS- SCSS 
 -Bootstrap 
 -Git 
