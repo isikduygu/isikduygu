@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/duyguisikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duyguisikk" height="30" width="40" /></a>
-<a href="mailto:duygu.yaseminn18@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="duyguisikk" height="30" width="40"
- style= "margin-left:15px"/></a>
+<a href="mailto:duygu.yaseminn18@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="duyguisikk" height="30" width="40"/></a>
 </p>
 
 
