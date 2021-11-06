@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Duygu</h1>
-<h3 align="center">I'm interested in Front-end.</h3>
+<h3 align="center">I'm a computer science student.</h3>
 
 - 🌱 I’m currently learning **Vue.js and Java**
+- 👯I’m looking to collaborate on **Front-end.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
